@@ -1,8 +1,20 @@
 [
-
-
-
-
-
-
+  {
+    "id": 1770998492011,
+    "name": "Best Shampoo",
+    "category": "HAIRCARE",
+    "price": 1000,
+    "discountPrice": 500,
+    "taxRate": 0,
+    "taxType": "none",
+    "cod": 0,
+    "codType": "free",
+    "delivery": 0,
+    "deliveryType": "free",
+    "stock": 100,
+    "description": "Best shampoo",
+    "image": "images/img_1770998490651_logo.jpeg",
+    "images": [],
+    "video": null
+  }
 ]
