@@ -1,1 +1,48 @@
-[]
+[
+  {
+    "id": 1771093696451,
+    "user": "saaddailynews@gmail.com",
+    "userName": "Saad Mirza",
+    "items": [
+      {
+        "id": 1771092082339,
+        "name": "Senwell Head & Beard Shampoo (200 ml)",
+        "category": "HAIRCARE",
+        "price": 600,
+        "discountPrice": 400,
+        "taxRate": 0,
+        "taxType": "none",
+        "cod": 0,
+        "codType": "free",
+        "delivery": 300,
+        "deliveryType": "custom",
+        "stock": 100,
+        "description": "Senwell Head & Beard Shampoo is a premium 2-in-1 formula designed to keep your hair and beard silky, shiny, and healthy. It strengthens roots, reduces breakage, hydrates the scalp, and helps control dandruff. Enriched with Aloe Vera, Coconut Oil, Jojoba Oil, and Argan Oil, it is perfect for daily use. Alcohol-free and free from harsh SLS.\nVolume: 200 ML",
+        "image": "images/img_1771092180278_1000029650.jpg",
+        "images": [
+          "images/sec_1771092077338_0_1000029688.png"
+        ],
+        "video": null,
+        "qty": 1
+      }
+    ],
+    "total": "Rs. 700",
+    "totalValue": 700,
+    "subtotal": "Rs. 400",
+    "tax": "Rs. 0",
+    "codCharge": "Rs. 0",
+    "delivery": "Rs. 300",
+    "date": "2026-02-14T18:28:16.452Z",
+    "status": "PENDING",
+    "payment": "COD",
+    "proof": null,
+    "shipping": {
+      "name": "Saad Mirza",
+      "address": "Lahore Road Prime valley",
+      "city": "Sargodha",
+      "zip": "04021",
+      "phone": "03086009321",
+      "whatsapp": "03086009321"
+    }
+  }
+]
