@@ -42,49 +42,5 @@
       "phone": "03086009321",
       "whatsapp": "03086009321"
     }
-  },
-  {
-    "id": 1771034552477,
-    "user": "senwellbuisness@gmail.com",
-    "userName": "1",
-    "items": [
-      {
-        "id": 1770998492011,
-        "name": "Best Shampoo",
-        "category": "HAIRCARE",
-        "price": 1000,
-        "discountPrice": 500,
-        "taxRate": 0,
-        "taxType": "none",
-        "cod": 0,
-        "codType": "free",
-        "delivery": 0,
-        "deliveryType": "free",
-        "stock": 100,
-        "description": "Best shampoo",
-        "image": "images/img_1770998490651_logo.jpeg",
-        "images": [],
-        "video": null,
-        "qty": 1
-      }
-    ],
-    "total": "Rs. 500",
-    "totalValue": 500,
-    "subtotal": "Rs. 500",
-    "tax": "Rs. 0",
-    "codCharge": "Rs. 0",
-    "delivery": "Rs. 0",
-    "date": "2026-02-14T02:02:32.477Z",
-    "status": "PENDING",
-    "payment": "COD",
-    "proof": null,
-    "shipping": {
-      "name": "1",
-      "address": "1",
-      "city": "1",
-      "zip": "1",
-      "phone": "1",
-      "whatsapp": "1"
-    }
   }
 ]
