@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": 1771089749697,
+    "name": "Senwell Head & Beard Shampoo (400ml)",
+    "category": "HAIRCARE",
+    "price": 1000,
+    "discountPrice": 700,
+    "taxRate": 0,
+    "taxType": "none",
+    "cod": 0,
+    "codType": "free",
+    "delivery": 300,
+    "deliveryType": "custom",
+    "stock": 100,
+    "description": "Senwell Head & Beard Shampoo is a premium 2-in-1 formula designed to keep your hair and beard silky, shiny, and healthy. It strengthens roots, reduces breakage, hydrates the scalp, and helps control dandruff. Enriched with Aloe Vera, Coconut Oil, Jojoba Oil, and Argan Oil, it is perfect for daily use. Alcohol-free and free from harsh SLS.\nVolume: 400 ML",
+    "image": "images/img_1771089740098_1000029661.png",
+    "images": [
+      "images/sec_1771089745212_0_1000029662.png"
+    ],
+    "video": null
+  }
+]
