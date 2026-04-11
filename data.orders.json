@@ -1,5 +1,51 @@
 [
   {
+    "id": 1775890434304,
+    "user": "freelancerfreelancer098@gmail.com",
+    "userName": "Ahmed Omar Omar",
+    "items": [
+      {
+        "id": 1771089749697,
+        "name": "Senwell Head & Beard Shampoo (400ml)",
+        "category": "HAIRCARE",
+        "price": 1000,
+        "discountPrice": 700,
+        "taxRate": 0,
+        "taxType": "none",
+        "cod": 0,
+        "codType": "free",
+        "delivery": 200,
+        "deliveryType": "custom",
+        "stock": 100,
+        "description": "Senwell Head & Beard Shampoo is a premium 2-in-1 formula designed to keep your hair and beard silky, shiny, and healthy. It strengthens roots, reduces breakage, hydrates the scalp, and helps control dandruff. Enriched with Aloe Vera, Coconut Oil, Jojoba Oil, and Argan Oil, it is perfect for daily use. Alcohol-free and free from harsh SLS.\nVolume: 400 ML",
+        "image": "images/img_1771089740098_1000029661.png",
+        "images": [
+          "images/sec_1771089745212_0_1000029662.png"
+        ],
+        "video": null,
+        "qty": 1
+      }
+    ],
+    "total": "Rs. 900",
+    "totalValue": 900,
+    "subtotal": "Rs. 700",
+    "tax": "Rs. 0",
+    "codCharge": "Rs. 0",
+    "delivery": "Rs. 200",
+    "date": "2026-04-11T06:53:54.304Z",
+    "status": "PENDING",
+    "payment": "COD",
+    "proof": null,
+    "shipping": {
+      "name": "Ahmed Omar Omar",
+      "address": "Chakwal, Pakistan",
+      "city": "Chakwal",
+      "zip": "2800",
+      "phone": "03348287232",
+      "whatsapp": "03"
+    }
+  },
+  {
     "id": 1775890382171,
     "user": "freelancerfreelancer098@gmail.com",
     "userName": "Ahmed Omar Omar",
